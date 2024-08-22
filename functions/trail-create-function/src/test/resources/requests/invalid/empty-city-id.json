@@ -1,0 +1,18 @@
+{
+  "version": "0",
+  "id": "7bf73129-1428-4cd3-a780-95db273d1602",
+  "account": "123456789012",
+  "source": "hiperium.city.tasks.api",
+  "time": "2024-05-08T15:00:00Z-05:00",
+  "region": "us-east-1",
+  "resources": [],
+  "detail-type": "ExecutedTaskEvent",
+  "detail": {
+    "taskId": "c9daa6fc-0821-48bf-9739-fbca31a86829",
+    "deviceId": "37f44ed4-b672-4f81-a579-47679c0d6f31",
+    "cityId": "",
+    "deviceOperation": "INACTIVATE"
+  }
+}
+
+

@@ -1,0 +1,28 @@
+{
+  "Trails": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "7bf73129-1428-4cd3-a780-95db273d1602"
+          },
+          "taskId": {
+            "S": "c9daa6fc-0821-48bf-9739-fbca31a86830"
+          },
+          "deviceId": {
+            "S": "37f44ed4-b672-4f81-a579-47679c0d6f31"
+          },
+          "cityId": {
+            "S": "a0ecb466-7ef5-47bf-a1ca-12f9f9328528"
+          },
+          "deviceOperation": {
+            "S": "ACTIVATE"
+          },
+          "createdAt": {
+            "S": "2024-05-08T15:00:00Z-05:00"
+          }
+        }
+      }
+    }
+  ]
+}
